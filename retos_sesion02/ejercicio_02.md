@@ -2,7 +2,9 @@
 ## Mi carrera
 Mi nombre el Leyna Yanarico Mollinedo, soy una estudiante de Economia de la Universidad Mayor de San Andres (UMSA), hasta este momento en que escribo este texto tengo 21 años, estoy en mi último semestre de la Universidad. 
 Actualmente estoy en una pasantia en la Autoridad Supervición del Sistema FInanciero (ASFI), ya tuve anteriores experiencias anteriores de pasantia presencial y virtual.
-![Imagen de mi](retos_sesion02\Imagen de WhatsApp 2025-05-03 a las 14.19.44_0d11f456.jpg)
+
+![Imagen de un sandwich](retos_sesion02\Imagen de WhatsApp 2025-05-03 a las 14.19.44_0d11f456.jpg)
+
 ## Mi vida 
 Pero empece a vivir la vida cuando me ofreci de voluntaria en la realizanción de la Feria Internacinal del Libro donde la verdad hice ademas de buenos amigos, obtuve experienias que nunca pense vivir o sentir, fue mi efecto mariposa. Desde ahi me anime a participar en  mas actividades. Este año me uni a varias voluntariados como ser DESAFIO ODS - EL ALTO que ya llevo un año ahi. Tambien decidi unirme a la Sociedad Cientifica de mi carrera, tengo a varios amigos, trabajo en el área de Marketing (Me encanta diseñar). 
 ## Mis adoracionees
