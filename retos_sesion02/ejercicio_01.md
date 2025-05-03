@@ -3,7 +3,7 @@
 ## Introducción 
 
 El sandwich de crema de mani, es una de las meriendad favoriatas tanto de niños como de adultos. Al probarlo me enamore perdidamente de su sabor. Es un salva vidas cuando tenemos hambre y no tenemos mucho tiempo para preparar algo rico y muy saludable.
-![Imagen de un sandwich]("D:\Documents\Downloads\24134d89f58a3a712d36005d87185e0c.jpg")
+![Imagen de un sandwich]("https://i.pinimg.com/736x/24/13/4d/24134d89f58a3a712d36005d87185e0c.jpg")
 
 ## Ingredientes
 
@@ -23,4 +23,4 @@ El sandwich de crema de mani, es una de las meriendad favoriatas tanto de niños
 Puedes mezclar el chile chipotle directamente con la mermelada, así lo tendrás siempre a la mano y listo para servir.
 
 ### Consejo 2 
-Si lo deseas calientito, mete las rebanadas al tostador antes de poner la crema de cacahuate. 
+Si lo deseas calientito, mete las rebanadas al tostador antes de poner la crema de cacahuate. s
