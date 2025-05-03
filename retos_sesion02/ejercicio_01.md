@@ -7,10 +7,10 @@ El sandwich de crema de mani, es una de las meriendad favoriatas tanto de niños
 
 ## Ingredientes
 
-1. 8 rebanadas de pan integral
-2. 4 cucharadas de crema de mani
-3. 4 cucharadas de mermelada al gusto
-4. 1 chile chipote en adobo
+- 8 rebanadas de pan integral
+- 4 cucharadas de crema de mani
+- 4 cucharadas de mermelada al gusto
+- 1 chile chipote en adobo
 
 ## Instrucciones
 
