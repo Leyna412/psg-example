@@ -1,0 +1,6 @@
+print("DIALOGO ENTRE UN DUEÑO Y SU GATO")
+print("Gato: ¿Dónde estás, humana? Necesito mimos.")
+print("Dueño: Aquí estoy, minino. Te acariciaré enseguida")
+print("Gato: No me ignores, necesito atención")
+print("Dueño: Lo siento, peludito. Te consentiré ahora mismo.")
+print("Gato: Gracias, humana. Te quiero mucho")
