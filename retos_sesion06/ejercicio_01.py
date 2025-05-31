@@ -1,6 +1,0 @@
-print("¿Si se declara una variable boolean del valor 0.0000000001 es True o False?")
-print("True")
-print("Porque cualquier número distinto de cero se considera True, incluso si es un número muy pequeño como 0.0000000001.")
-print("bool(0.0000000001)")
-# Resultado: True
-print(bool(0.0000000001))
