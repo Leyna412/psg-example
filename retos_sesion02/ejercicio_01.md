@@ -3,7 +3,7 @@
 ## Introducción 
 
 El sandwich de crema de mani, es una de las meriendad favoriatas tanto de niños como de adultos. Al probarlo me enamore perdidamente de su sabor. Es un salva vidas cuando tenemos hambre y no tenemos mucho tiempo para preparar algo rico y muy saludable.
-![Imagen de un sandwich](retos_sesion02\Fotos\24134d89f58a3a712d36005d87185e0c.jpg)
+![Imagen de un sandwich](retos_sesion02\retos_sesion02\Fotos\24134d89f58a3a712d36005d87185e0c.jpg)
 
 ## Ingredientes
 
