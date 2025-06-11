@@ -1,6 +1,0 @@
-print("Reglas del Uno")
-print("1. Cuando un jugador queda con una sola carta, debe decir UNO en voz alta.")
-print("     - Cuando un jugador queda con una sola carta, debe decir UNO en voz alta.")
-print("2. Apilar +2 o +4: Si te tiran un +2 y tú tienes otro, puedes acumularlo al siguiente jugador (no permitido oficialmente)")
-print("3. 7 y 0: Si alguien tira un 7, puede intercambiar cartas con otro jugador. Si se juega un 0, todos rotan sus manos. (Variante especial del UNO de lujo).")
-print("4. Jugar múltiples cartas iguales (por ejemplo, dos 3 azules): no permitido oficialmente.")
