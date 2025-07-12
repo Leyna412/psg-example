@@ -1,3 +1,11 @@
+print("Ejercicio 01: Triángulo rectángulo alineado a la derecha")
+print("Descripción: Este programa imprime un triángulo rectángulo formado por asteriscos,")
+print("alineado al margen derecho. Utiliza barras invertidas para crear el")
+print("efecto visual del borde diagonal derecho. El triángulo tiene 8 filas")
+print("y termina con una base completa de asteriscos.")
+print("Técnica:Se usa una combinación de pipes '|', asteriscos '*' y barras invertidas '\\'")
+print("para formar la figura, controlando cuidadosamente los espacios y caracteres.")
+
 print("|\\ ")
 print("|*\\ ")
 print("|**\\ ")
