@@ -1,1 +1,0 @@
-En este repositorio se guardara todo los retos de Python Study Group For Beginners, utiliza Markdown
