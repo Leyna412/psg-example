@@ -1,49 +1,33 @@
-# Lista para almacenar contactos válidos
-contactos = []
+# Lista para almacenar contactos
+lista_contactos = []
 
-def validar_contacto(nombre, telefono):
-    """Función para validar los datos del contacto"""
-    # Validar nombre (no vacío y solo letras y espacios)
-    if not nombre or not nombre.replace(" ", "").isalpha():
-        return False
-    
-    # Validar teléfono (exactamente 11 dígitos)
-    if not telefono.isdigit() or len(telefono) != 11:
-        return False
-    
-    return True
+print("=== APLICACIÓN DE CONTACTOS ===")
 
-# Interfaz de usuario
-print("=== GESTIÓN DE CONTACTOS ===")
-while True:
-    print("\n1. Agregar contacto")
-    print("2. Ver contactos")
-    print("3. Salir")
+# Ingreso de datos (flujo secuencial)
+nombre = input("Ingrese el nombre del contacto: ").strip()
+telefono = input("Ingrese el número de teléfono (11 dígitos con código de país): ").strip()
+
+# Validaciones usando condicionales
+if (nombre and  # Truthiness: nombre no vacío
+    telefono.isdigit() and  # Solo dígitos
+    len(telefono) == 11):  # Exactamente 11 caracteres
     
-    opcion = input("Seleccione una opción: ")
-    
-    # Estructura de control para manejar las opciones
-    if opcion == "1":
-        nombre = input("Ingrese el nombre del contacto: ").strip()
-        telefono = input("Ingrese el teléfono (11 dígitos con código de país): ").strip()
-        
-        if validar_contacto(nombre, telefono):
-            contactos.append({"nombre": nombre, "telefono": telefono})
-            print("✅ Contacto guardado correctamente")
-        else:
-            print("❌ Datos incorrectos. El nombre debe contener solo letras y el teléfono 11 dígitos")
-    
-    elif opcion == "2":
-        print("\n=== LISTA DE CONTACTOS ===")
-        if not contactos:
-            print("No hay contactos guardados")
-        else:
-            for i, contacto in enumerate(contactos, 1):
-                print(f"{i}. {contacto['nombre']}: {contacto['telefono']}")
-    
-    elif opcion == "3":
-        print("Saliendo del programa...")
-        break
-    
-    else:
-        print("Opción no válida. Por favor seleccione 1, 2 o 3")
+    # Guardar contacto si es válido
+    lista_contactos.append({"nombre": nombre, "telefono": telefono})
+    print("✅ Contacto guardado exitosamente")
+else:
+    print("❌ Datos incorrectos. Verifique:")
+    if not nombre:
+        print("- El nombre no puede estar vacío")
+    if not telefono.isdigit():
+        print("- El teléfono debe contener solo números")
+    if len(telefono) != 11:
+        print("- El teléfono debe tener exactamente 11 dígitos")
+
+# Mostrar lista de contactos actual
+print("\n=== LISTA DE CONTACTOS ===")
+if lista_contactos:  # Truthiness: lista no vacía
+    for contacto in lista_contactos:
+        print(f"Nombre: {contacto['nombre']}, Teléfono: {contacto['telefono']}")
+else:
+    print("No hay contactos registrados")
