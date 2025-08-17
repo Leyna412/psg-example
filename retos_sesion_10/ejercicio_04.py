@@ -14,6 +14,6 @@ print("Todos los postres:", todos_postres)  # 7 elementos
 # Cálculo de porcentaje
 porcentaje = (len(comunes) / len(todos_postres)) * 100
 
-# Comparación sin usar if
+# Comparación con la modificación sugerida
 resultados = ["Resultado: Deben replantear", "Resultado: Compatibles"]
 print(f"{resultados[porcentaje > 50]} ({porcentaje:.0f}% de coincidencia)")
